@@ -72,8 +72,9 @@ yes it follows it excepting merge one :)
 **8. Paste your PR link. How many commits and how many files changed does
 your PR show?**
 
-> Your answer here.
+> https://github.com/IbrahimYasserM/Practice-Repository/pull/18
 
+The PR shows 4 commits and 2 files changed.
 ---
 
 ## Part 6 — Final reflection
